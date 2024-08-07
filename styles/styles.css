@@ -2,13 +2,13 @@
 
 :root {
   --zircon-color: #f8f9ff;
+  --aqua-squeeze-color: #e5f4f2;
   --alto-color: #d8d8d8;
   --mine-shaft-color: #2d2d2d;
   --observatory-color: #009379;
-  --aqua-squeeze-color: #e5f4f2;
   --sweet-corn-color: #f8d57e;
-  --mandys-pink-color: #f2bfaf;
   --persimmon-color: #ff6250;
+  --mandys-pink-color: #f2bfaf;
 }
 
 * {

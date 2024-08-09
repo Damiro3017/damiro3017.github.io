@@ -101,17 +101,17 @@ body {
   padding: 120px 55px 60px 55px;
 }
 
-.hero-section .hero-info {
+.hero-section .hero-title {
   display: block;
   text-align: center;
 }
 
-.hero-info h1 {
+.hero-title h1 {
   font-size: 90px;
   word-spacing: -2.5%;
 }
 
-.hero-info p {
+.hero-title p {
   font-size: 28px;
   font-weight: 400;
 }
@@ -207,7 +207,7 @@ body {
   padding: 120px 55px;
 }
 
-.features-section-info {
+.features-section-title {
   display: flex;
   justify-content: center;
   align-items: center;
@@ -218,12 +218,12 @@ body {
   text-wrap: balance;
 }
 
-.features-section-info h2 {
+.features-section-title h2 {
   font-size: 38px;
   font-weight: bold;
 }
 
-.features-section-info p {
+.features-section-title p {
   font-size: 16px;
   font-weight: normal;
 }
@@ -258,7 +258,7 @@ body {
   gap: 8px;
 }
 
-.features-cards .cards-info {
+.features-cards .cards-title {
   display: flex;
   align-items: center;
   justify-content: center;

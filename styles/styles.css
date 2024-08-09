@@ -200,3 +200,86 @@ body {
   width: 48px;
   height: 48px;
 }
+
+/* FEATURES SECTION */
+
+.features-section {
+  padding: 120px 55px;
+}
+
+.features-section-info {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+
+  margin-bottom: 60px;
+  text-align: center;
+  text-wrap: balance;
+}
+
+.features-section-info h2 {
+  font-size: 38px;
+  font-weight: bold;
+}
+
+.features-section-info p {
+  font-size: 16px;
+  font-weight: normal;
+}
+
+.features-cards {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 30px;
+}
+
+.features-cards h3 {
+  font-size: 28px;
+  font-weight: 700;
+  margin-top: 30px;
+}
+
+.features-cards p {
+  font-size: 16px;
+  font-weight: normal;
+  margin-top: 24px;
+}
+
+.features-cards a {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  font-size: 16px;
+  font-weight: 700;
+  margin-top: 30px;
+  gap: 8px;
+}
+
+.features-cards .cards-info {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+
+  width: 370px;
+  height: 384px;
+  padding: 40px 30px;
+  text-align: center;
+  background-color: var(--zircon-color);
+  border: 1px solid var(--aqua-squeeze-color);
+  box-shadow: 5px 5px 50px 0px rgba(51, 102, 255, 0.1);
+}
+
+.container-card-logo {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  width: 84px;
+  height: 84px;
+  padding: 20px;
+  border-radius: 20px;
+}
